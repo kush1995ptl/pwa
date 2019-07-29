@@ -1,0 +1,25 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vuejs",
+    "api"
+  ],
+  "author": "Pratik Soni",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "http-proxy-middleware": "^0.19.1",
+    "mongoose": "^4.13.5",
+    "nodemon": "^1.19.1",
+    "toastr": "^2.1.2",
+    "vuex": "^3.0.1"
+  }
+}
